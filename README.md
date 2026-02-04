@@ -24,3 +24,12 @@ Itt találod a projektjeinket logikai csoportokba szedve, hogy ne kelljen a rep�
 *Minden más, ami nem fér bele a fenti kategóriákba.*
 
 * [Segédprogram X](https://github.com/szervezet-neve/eszkoz-x) – Konvertáló és utility cuccok.
+
+
+# Üdvözöljük a PhotoGyulai GitHub oldalán! 🚀
+
+| 🤖 Mesterséges Intelligencia | 🐍 Python & Scripts | 🛠️ Egyéb Projektek |
+| :--- | :--- | :--- |
+| [Nagy AI Projektem](link) | [Kezdő Python suli](link) | [Arduino vázlatok](link) |
+| ↳ [Arcfelismerő](link/tree/main/arc) | [Automata script](link) | [Mirmurok kódjai](link) |
+| ↳ [NLP modul](link/tree/main/nlp) | [Adatbázis kezelő](link) | [Teszt repó](link) |
